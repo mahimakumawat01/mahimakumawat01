@@ -47,14 +47,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahimakumawat01&show_icons=true&theme=radical" alt="mahimakumawat01" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimakumawat01&layout=compact&theme=radical" alt="mahimakumawat01" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahimakumawat01&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimakumawat01&theme=radical" alt="mahimakumawat01" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimakumawat01&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahimakumawat01&theme=radical)
 
 ---
 
